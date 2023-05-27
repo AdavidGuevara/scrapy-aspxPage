@@ -1,1 +1,1 @@
-# Scrapy aspx page.
+# Example of scraping aspx page with scrapy.
